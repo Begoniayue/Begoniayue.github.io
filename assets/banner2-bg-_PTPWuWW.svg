@@ -1,0 +1,26 @@
+<svg width="1440" height="714" viewBox="0 0 1440 714" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="el_k3NPOb49f"><style>@-webkit-keyframes kf_el_AeL6PpvKc-_an_qxnXActtU{0%{-webkit-transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 100px);transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 100px);}100%{-webkit-transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 0px);transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 0px);}}@keyframes kf_el_AeL6PpvKc-_an_qxnXActtU{0%{-webkit-transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 100px);transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 100px);}100%{-webkit-transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 0px);transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 0px);}}#el_k3NPOb49f *{-webkit-animation-duration: 1.5s;animation-duration: 1.5s;-webkit-animation-iteration-count: 1;animation-iteration-count: 1;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_YdiUkJ8Mxt{stroke: none;stroke-width: 1;fill: none;}#el_AeL6PpvKc-{fill: url(#linearGradient-3);opacity: 0.0918251812;-webkit-transform: translate(1889px, 0px) scale(-1, 1);transform: translate(1889px, 0px) scale(-1, 1);}#el_VkfQqIJi1w{fill: url(#linearGradient-4);-webkit-transform: translate(1440.751584px, 0px) scale(-1, 1);transform: translate(1440.751584px, 0px) scale(-1, 1);}#el_VkfQqIJi1w_an_3baz3XDV4{-webkit-transform: translate(0.751583456993103px, 343.55419921875px) translate(-0.751583456993103px, -343.55419921875px) translate(0px, 30px);transform: translate(0.751583456993103px, 343.55419921875px) translate(-0.751583456993103px, -343.55419921875px) translate(0px, 30px);}#el_AeL6PpvKc-_an_qxnXActtU{-webkit-animation-fill-mode: forwards;animation-fill-mode: forwards;-webkit-transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 200px);transform: translate(449px, 300px) translate(-449px, -300px) translate(0px, 200px);-webkit-animation-name: kf_el_AeL6PpvKc-_an_qxnXActtU;animation-name: kf_el_AeL6PpvKc-_an_qxnXActtU;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}</style>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>banner 2-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="714"/>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7F61FA" offset="0%"/>
+            <stop stop-color="#2611C9" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="17.4446883%" y1="88.4533223%" x2="112.455636%" y2="-86.8381405%" id="linearGradient-4">
+            <stop stop-color="#4261E1" offset="0%"/>
+            <stop stop-color="#0E2192" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="el_YdiUkJ8Mxt" fill-rule="evenodd">
+        <g id="el_OyazZr1u79">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"/>
+            </mask>
+            <g id="el_F6sK480ePZ"/>
+            <g id="el_AeL6PpvKc-_an_qxnXActtU" data-animator-group="true" data-animator-type="0"><path d="M681.001444,300.690532 C843.578765,311.976216 933,411 1072,459 C1147.69382,485.138873 1270.36049,561.472206 1440,688 L534.413,701 L449,701 L449,374.683977 C528.068101,320.107096 605.401916,295.442615 681.001444,300.690532 Z" id="el_AeL6PpvKc-" mask="url(#mask-2)"/></g>
+            <path d="M0.751583477,546 C0.751583477,623.333333 0.751583477,679.333333 0.751583477,714 C0.751583477,714 480.501056,714 1440,714 L1440,569.154631 C1248.81344,629.71821 1076.97766,625.477577 924.492667,556.432732 C752.601303,478.600727 744.773513,390.268245 547.170491,350.511794 C381.865022,317.253403 251.961965,407.811636 35.7058605,524.603274 C20.4030091,532.867758 8.75158348,540 0.751583477,546 Z" id="el_VkfQqIJi1w" mask="url(#mask-2)"/>
+        </g>
+    </g>
+</svg>
