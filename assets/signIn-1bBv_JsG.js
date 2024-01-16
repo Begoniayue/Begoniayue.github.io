@@ -1,0 +1,1 @@
+import{S as o}from"./index-IcywBdln.js";import{b as r,c as e}from"./index-ZKZBXv4v.js";import"./_plugin-vue_export-helper-x3n3nnut.js";const m={__name:"signIn",setup(t){return(n,a)=>(r(),e(o,{mode:"登录"}))}};export{m as default};
